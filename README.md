@@ -28,4 +28,4 @@ This project was created to practice:
 URL: https://if-void7.github.io/tic-tac-toe/
 
 ## 📌 Status
-✔️ Completed / 🚧 In progress
+✔️ Completed 
