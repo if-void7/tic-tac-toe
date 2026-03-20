@@ -1,27 +1,31 @@
 # Tic Tac Toe
 
-Um jogo clássico da velha desenvolvido para praticar lógica de programação e manipulação de interface.
+A classic Tic Tac Toe game built to practice programming logic and user interface handling.
 
-## 🚀 Funcionalidades
-- Jogo para dois jogadores
-- Validação automática de vitória ou empate
-- Interface simples e intuitiva
-- Reinício rápido da partida
+## 🚀 Features
+- Two-player gameplay
+- Automatic win/draw detection
+- Simple and intuitive interface
+- Quick game reset
 
-## 🛠️ Tecnologias
-- (adicione aqui: Java, JavaScript, etc.)
+## 🛠️ Technologies
+- JavaScript
+- CSS
+- HTML
+- React.js
+- Vue
 
-## 🎯 Objetivo
-Praticar conceitos como:
-- Estruturas condicionais
-- Manipulação de estado
-- Lógica de jogo
+## 🎯 Purpose
+This project was created to practice:
+- Conditional logic
+- State management
+- Game logic implementation
 
 ## 📸 Preview
-Acesse o jogo em: https://if-void7.github.io/tic-tac-toe/
-<img width="1374" height="991" alt="Screenshot 2026-03-20 at 17-50-41 Tic-Tac-Toe" src="https://github.com/user-attachments/assets/3bb2b275-f97d-47cc-868c-0d61d414314c" />
 
+<img width="1374" height="991" alt="Screenshot 2026-03-20 at 17-50-41 Tic-Tac-Toe" src="https://github.com/user-attachments/assets/0cc02ce0-229d-465d-a6f3-431673f0a809" />
 
+URL: https://if-void7.github.io/tic-tac-toe/
 
 ## 📌 Status
-✔️ Concluído / 🚧 Em desenvolvimento
+✔️ Completed / 🚧 In progress
