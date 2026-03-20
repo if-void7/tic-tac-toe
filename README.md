@@ -1,16 +1,27 @@
-# React + Vite
+# Tic Tac Toe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um jogo clássico da velha desenvolvido para praticar lógica de programação e manipulação de interface.
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades
+- Jogo para dois jogadores
+- Validação automática de vitória ou empate
+- Interface simples e intuitiva
+- Reinício rápido da partida
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias
+- (adicione aqui: Java, JavaScript, etc.)
 
-## React Compiler
+## 🎯 Objetivo
+Praticar conceitos como:
+- Estruturas condicionais
+- Manipulação de estado
+- Lógica de jogo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📸 Preview
+Acesse o jogo em: https://if-void7.github.io/tic-tac-toe/
+<img width="1374" height="991" alt="Screenshot 2026-03-20 at 17-50-41 Tic-Tac-Toe" src="https://github.com/user-attachments/assets/3bb2b275-f97d-47cc-868c-0d61d414314c" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 📌 Status
+✔️ Concluído / 🚧 Em desenvolvimento
